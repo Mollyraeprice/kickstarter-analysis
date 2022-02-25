@@ -15,15 +15,26 @@ My first analysis was of the success of theater productions based on the month i
 
 ## Results
 
+
+
 ### Analysis of Outcomes Based on Launch Date
 
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/98489681/155790309-9bace10c-d188-43ef-99c1-31489c189293.png)
+
+
 
 Looking at the theater outcomes based on launch date, one can right away see that the beginning of the summer is a great time to launch a crowdfunding campaign. Also, the waves of success and failure actually move the same way interestingly enough. So, although the success of the campaigns drops over the course of the summer, so does the failed numbers. One great note about the data, is that there are always more successful outcomes than failed outcomes. 
 
 
+
+
+
 ### Analysis of Outcomes Based on Goals
 
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/98489681/155790479-5a0fc42f-9599-4fab-920e-585c5d8afe3d.png)
+
+
 
 At first glance, the second analysis is confusing because the lines mirror each other, but it’s because there are only two data points and its set in percentages. Looking at the percentage successful, you can see that campaigns do much better with low goals. Once the goals are hitting $15,000 to $20,000, the number of successful campaigns start losing out to the number of failed campaigns. Although, there seems to be a sweet spot between $35,000-$40,000 for successful campaigns. If needed, more analysis could be done on the group of plays in this dataset, but it would be limited. Louise may need more data on this specific group. I could create an analysis based on a specific goal range with a successful outcome and see how many backers there are along with other data sets we have available. We might be able to come up with the “perfect crowdfunding campaign” for Louise that will give her almost exact specifications that will help her future plays succeed.
